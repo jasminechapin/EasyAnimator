@@ -1,0 +1,5 @@
+-if rotation-simple.txt -iv interactive -speed 10
+
+-if rotation.txt -iv interactive -speed 20
+
+-if smalldemo.txt -iv interactive -speed 30

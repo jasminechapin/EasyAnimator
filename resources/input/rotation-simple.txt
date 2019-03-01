@@ -1,0 +1,6 @@
+rectangle name R min-x 200 min-y 200 width 50 height 100 color .2 .1 .1 from 0 to 100 rotation 40
+oval name C center-x 700 center-y 400 x-radius 100 y-radius 900 color 0 0 1
+ rotation 10 from 20 to 100
+
+rotate name R rotateto 30 90 from 0 to 50
+rotate name C rotateto 10 -180 from 20 to 80
