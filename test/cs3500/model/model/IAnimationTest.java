@@ -178,7 +178,7 @@ public class IAnimationTest {
     assertEquals("10.0", prop1.get(1));
     // testing end properties method of a colorAnimation
     assertEquals("5.0", prop2.get(0));
-    assertEquals("5.0", prop2.get(1));
+    assertEquals("5.0", prop2.get(1)); 
     assertEquals("5.0", prop2.get(2));
     // testing end properties method of a scaleAnimation
     assertEquals("7.0", prop3.get(0));
